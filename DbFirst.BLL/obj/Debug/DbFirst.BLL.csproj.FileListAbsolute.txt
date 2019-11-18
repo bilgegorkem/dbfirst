@@ -1,0 +1,12 @@
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\DbFirst.BLL.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\DbFirst.BLL.pdb
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\DbFirst.DAL.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\EntityFramework.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\DbFirst.DAL.pdb
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\DbFirst.DAL.dll.config
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\bin\Debug\EntityFramework.xml
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\obj\Debug\DbFirst.BLL.csprojAssemblyReference.cache
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\obj\Debug\DbFirst.BLL.csproj.CoreCompileInputs.cache
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\obj\Debug\DbFirst.BLL.csproj.CopyComplete
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\obj\Debug\DbFirst.BLL.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.BLL\obj\Debug\DbFirst.BLL.pdb

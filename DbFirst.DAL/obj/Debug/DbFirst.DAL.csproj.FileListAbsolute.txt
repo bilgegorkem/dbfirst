@@ -1,0 +1,12 @@
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\DbFirst.DAL.dll.config
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\DbFirst.DAL.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\DbFirst.DAL.pdb
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\EntityFramework.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\EntityFramework.xml
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\obj\Debug\DbFirst.DAL.csprojAssemblyReference.cache
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\obj\Debug\DbFirst.DAL.csproj.CoreCompileInputs.cache
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\obj\Debug\DbFirst.DAL.csproj.CopyComplete
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\obj\Debug\DbFirst.DAL.dll
+C:\Users\gorkem.goren\source\repos\DbFirstProject\DbFirst.DAL\obj\Debug\DbFirst.DAL.pdb
